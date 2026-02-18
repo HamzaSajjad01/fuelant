@@ -3,7 +3,7 @@ import QRCode from "react-qr-code";
 import Barcode from "react-barcode";
 
 const QRCodePage = () => {
-  const websiteURL = "https://hamza-sajjad.netlify.app";
+  const websiteURL = "https://fuelant.netlify.app";
   const whatsappURL = "https://wa.me/923439391344?text=Hello%20Fuelant!";
   const productCode = "61902782";
 

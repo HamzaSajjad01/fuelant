@@ -1,16 +1,40 @@
-# React + Vite
+# Fuelant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Official website for Fuelant – a carbon remover and fuel performance enhancement product.
 
-Currently, two official plugins are available:
+This repository contains the frontend source code for the Fuelant marketing and product website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 Project Overview
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The Fuelant website is designed to:
 
-## Expanding the ESLint configuration
+- Present product information clearly and professionally
+- Highlight product benefits and performance advantages
+- Showcase customer testimonials
+- Provide contact and inquiry information
+- Support brand positioning as a premium international product
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The site is optimized for performance, responsiveness, and modern user experience across all devices.
+
+---
+
+## 🛠 Tech Stack
+
+- React
+- Vite (or Create React App)
+- Modern CSS / Tailwind / Bootstrap
+- Netlify (Deployment)
+
+---
+
+## 📂 Project Structure
+
+src/
+├── components/
+├── pages/
+├── assets/
+├── styles/
+├── App.jsx
+└── main.jsx
